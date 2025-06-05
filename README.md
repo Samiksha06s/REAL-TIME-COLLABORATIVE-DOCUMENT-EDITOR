@@ -29,4 +29,11 @@ This project is a full-stack web application that enables **multiple users to co
 * **Backend**: NestJS, Socket.io, Mongoose
 * **Database**: MongoDB
 
+## OUTPUT 
+
+<img width="1367" alt="Image" src="https://github.com/user-attachments/assets/7082af9b-6ef8-4bc7-b0b1-4d191bfdf326" />
+
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/00bbdfa2-9b5f-4bf3-9039-9a820365ddfd" />             
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
